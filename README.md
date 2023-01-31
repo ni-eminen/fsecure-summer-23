@@ -1,4 +1,4 @@
-# F-secure summer 2023 Data Analyst Summer Trainee coding challenge
+## F-secure summer 2023 Data Analyst Summer Trainee coding challenge
 
 ### Assignment 1
 Fetch all URLs from web page and display them according to category
